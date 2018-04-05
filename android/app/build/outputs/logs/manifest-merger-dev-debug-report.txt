@@ -1,0 +1,968 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:2:1-263:12
+	package
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:3:3-30
+		INJECTED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:5:3-49
+	xmlns:android
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:4:3-61
+	android:versionCode
+		INJECTED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml
+permission#example.test.app.permission.C2D_MESSAGE
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:7:3-9:42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:9:5-40
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:8:5-59
+uses-permission#example.test.app.permission.C2D_MESSAGE
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:12:3-77
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:12:20-74
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:13:3-80
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/inspire11/.android/build-cache/43c730d4d0813e48773befe961eaafb63cc7a977/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/inspire11/.android/build-cache/8a7e436a5840da29da56b046626d1a5b834f0f04/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:13:20-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:14:3-77
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:25:5-79
+MERGED from [com.facebook.android:audience-network-sdk:4.26.1] /Users/inspire11/.android/build-cache/b38ffef7b953e19ec8c7bfc90e4d94c801b93093/output/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/inspire11/.android/build-cache/c149c430cedf7a2c20c38b39de905fb0833449fc/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/inspire11/.android/build-cache/3999ed7b8e006b51f7f3d93d264343fb9a18caa2/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/inspire11/.android/build-cache/54a549a546fc66490d6153ef9ef10def5574fe52/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/inspire11/.android/build-cache/fcbb887a9ebbd83751e7753e3c20264bcbd2676c/output/AndroidManifest.xml:19:5-78
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/inspire11/.android/build-cache/3a54db8f376c504739d4bc03a6fb236ddae5b99a/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:14:20-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:15:3-65
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:19:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /Users/inspire11/.android/build-cache/8576b3dbe231238fba73912939c503db42e534dd/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] /Users/inspire11/.android/build-cache/3a8d49188418fdf16dc7e3fb60d8b8385b501ce8/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/inspire11/.android/build-cache/ecbb6cf53ddbb9366ad74a6942eeec9de16c179c/output/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/inspire11/.android/build-cache/f05764534f941551f12fb781a547de1b172236a7/output/AndroidManifest.xml:25:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] /Users/inspire11/.android/build-cache/06de1d6cbff3a878456d54a523054d3e49f1459a/output/AndroidManifest.xml:9:5-67
+MERGED from [com.facebook.android:audience-network-sdk:4.26.1] /Users/inspire11/.android/build-cache/b38ffef7b953e19ec8c7bfc90e4d94c801b93093/output/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/inspire11/.android/build-cache/43c730d4d0813e48773befe961eaafb63cc7a977/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/inspire11/.android/build-cache/8a7e436a5840da29da56b046626d1a5b834f0f04/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/inspire11/.android/build-cache/c149c430cedf7a2c20c38b39de905fb0833449fc/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/inspire11/.android/build-cache/3999ed7b8e006b51f7f3d93d264343fb9a18caa2/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/inspire11/.android/build-cache/54a549a546fc66490d6153ef9ef10def5574fe52/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/inspire11/.android/build-cache/fcbb887a9ebbd83751e7753e3c20264bcbd2676c/output/AndroidManifest.xml:20:5-66
+MERGED from [net.openid:appauth:0.4.1] /Users/inspire11/.android/build-cache/5551bdf46308af8c00e6bf955853c51751976d48/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/inspire11/.android/build-cache/3a54db8f376c504739d4bc03a6fb236ddae5b99a/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:15:20-62
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:16:3-76
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:21:5-78
+MERGED from [com.facebook.react:react-native:26.0.0] /Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/AndroidManifest.xml:11:5-78
+MERGED from [host.exp:reactandroid-abi26_0_0:1.0.0] /Users/inspire11/.android/build-cache/3c0ba151039eca5c3b665a5722bfa6e561e50b02/output/AndroidManifest.xml:11:5-78
+MERGED from [host.exp:reactandroid-abi25_0_0:1.0.0] /Users/inspire11/.android/build-cache/004691b44faf49dcc16caff02b8d77a6ffcd02d1/output/AndroidManifest.xml:11:5-78
+MERGED from [host.exp:reactandroid-abi24_0_0:1.0.0] /Users/inspire11/.android/build-cache/2a6cdac4df1df46b80dd8495b668e8c68a19e712/output/AndroidManifest.xml:11:5-78
+MERGED from [host.exp:reactandroid-abi23:1.0.0] /Users/inspire11/.android/build-cache/c56c3637bc0eb3999f4a7639611c2c0548f82e15/output/AndroidManifest.xml:11:5-78
+MERGED from [host.exp:reactandroid-abi22:1.0.0] /Users/inspire11/.android/build-cache/82ae6eaf3446cc70ecaf2297bbd812a7f7e137c5/output/AndroidManifest.xml:11:5-78
+MERGED from [host.exp:reactandroid-abi21:1.0.0] /Users/inspire11/.android/build-cache/b7df33d92badcb63c303e24df406c69cf9439b58/output/AndroidManifest.xml:11:5-78
+MERGED from [host.exp:reactandroid-abi20:1.0.0] /Users/inspire11/.android/build-cache/50cd88f28e3f8d14478cbb654d2dcdbe2f63aefd/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:16:20-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:17:3-66
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:22:5-68
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/inspire11/.android/build-cache/c149c430cedf7a2c20c38b39de905fb0833449fc/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/inspire11/.android/build-cache/3999ed7b8e006b51f7f3d93d264343fb9a18caa2/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/inspire11/.android/build-cache/3a54db8f376c504739d4bc03a6fb236ddae5b99a/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:17:20-63
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:21:3-73
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:21:20-70
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:22:3-78
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:22:20-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:23:3-73
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:23:20-70
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:24:3-72
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:24:20-69
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:25:3-64
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:25:20-61
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:26:3-86
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:20:5-88
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:26:20-83
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:29:3-79
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:37:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:29:20-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:30:3-77
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:38:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:30:20-74
+uses-permission#android.permission.CAMERA
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:31:3-63
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:36:5-65
+MERGED from [com.google.android:cameraview:1.0.0] /Users/inspire11/.android/build-cache/1d3af972d2ccc98fed94211bf8bc6bcf548d411c/output/AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:31:20-60
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:32:3-70
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:31:5-72
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:32:20-67
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:33:3-70
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:32:5-72
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:33:20-67
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:34:3-71
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:33:5-73
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:34:20-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:35:3-78
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:34:5-80
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:35:20-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:36:3-69
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:36:20-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:37:3-79
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:37:20-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:38:3-71
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:38:20-68
+uses-feature#0x00020000
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:43:3-77
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/inspire11/.android/build-cache/fcbb887a9ebbd83751e7753e3c20264bcbd2676c/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:43:17-49
+	android:required
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:43:50-74
+application
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:45:3-261:17
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:68:5-84:19
+MERGED from [com.facebook.react:react-native:26.0.0] /Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/AndroidManifest.xml:13:5-20
+MERGED from [host.exp:reactandroid-abi26_0_0:1.0.0] /Users/inspire11/.android/build-cache/3c0ba151039eca5c3b665a5722bfa6e561e50b02/output/AndroidManifest.xml:13:5-20
+MERGED from [host.exp:reactandroid-abi25_0_0:1.0.0] /Users/inspire11/.android/build-cache/004691b44faf49dcc16caff02b8d77a6ffcd02d1/output/AndroidManifest.xml:13:5-20
+MERGED from [host.exp:reactandroid-abi24_0_0:1.0.0] /Users/inspire11/.android/build-cache/2a6cdac4df1df46b80dd8495b668e8c68a19e712/output/AndroidManifest.xml:13:5-20
+MERGED from [host.exp:reactandroid-abi23:1.0.0] /Users/inspire11/.android/build-cache/c56c3637bc0eb3999f4a7639611c2c0548f82e15/output/AndroidManifest.xml:13:5-20
+MERGED from [host.exp:reactandroid-abi22:1.0.0] /Users/inspire11/.android/build-cache/82ae6eaf3446cc70ecaf2297bbd812a7f7e137c5/output/AndroidManifest.xml:13:5-20
+MERGED from [host.exp:reactandroid-abi21:1.0.0] /Users/inspire11/.android/build-cache/b7df33d92badcb63c303e24df406c69cf9439b58/output/AndroidManifest.xml:13:5-20
+MERGED from [host.exp:reactandroid-abi20:1.0.0] /Users/inspire11/.android/build-cache/50cd88f28e3f8d14478cbb654d2dcdbe2f63aefd/output/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/inspire11/.android/build-cache/2b60fcb467a29ea349099bc87648a6340d6cbc64/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/inspire11/.android/build-cache/42cad131a8ab549e8315cce4c7d7177e75fc96e5/output/AndroidManifest.xml:2:3-17
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /Users/inspire11/.android/build-cache/8576b3dbe231238fba73912939c503db42e534dd/output/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] /Users/inspire11/.android/build-cache/3a8d49188418fdf16dc7e3fb60d8b8385b501ce8/output/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/inspire11/.android/build-cache/ecbb6cf53ddbb9366ad74a6942eeec9de16c179c/output/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/inspire11/.android/build-cache/f05764534f941551f12fb781a547de1b172236a7/output/AndroidManifest.xml:27:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] /Users/inspire11/.android/build-cache/06de1d6cbff3a878456d54a523054d3e49f1459a/output/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /Users/inspire11/.android/build-cache/9b858482754296b0083522932fbb221d20cf5b28/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.28.0] /Users/inspire11/.android/build-cache/ee40501d6f193961be85ccb01704e384450f8d0c/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.28.0] /Users/inspire11/.android/build-cache/2e2bd85360fc86c593ac23a8d21f93c209eb8cb8/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.28.0] /Users/inspire11/.android/build-cache/cc7ab54423473c8ae2e87747157fba2eee8a499b/output/AndroidManifest.xml:28:5-34:19
+MERGED from [com.android.support:cardview-v7:26.0.1] /Users/inspire11/.android/build-cache/5efbbc11e60be63f9d7acde2b8c1951d17b777d2/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-places:4.28.0] /Users/inspire11/.android/build-cache/8bb5b23fdc08d01196871e7880fb1c140e09cf07/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /Users/inspire11/.android/build-cache/b5eabae9d1d4391ab3b5c2b1034befa5a99a8cca/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /Users/inspire11/.android/build-cache/2bd0cb0499527b92daa02616b942ebe63ac3fecf/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.28.0] /Users/inspire11/.android/build-cache/ef96964dbf4086d9d481a33779910095e47c4efa/output/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:audience-network-sdk:4.26.1] /Users/inspire11/.android/build-cache/b38ffef7b953e19ec8c7bfc90e4d94c801b93093/output/AndroidManifest.xml:14:5-18:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/inspire11/.android/build-cache/ca933e5cce5a248957c98e277356aa161d9bfda6/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/inspire11/.android/build-cache/43c730d4d0813e48773befe961eaafb63cc7a977/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/inspire11/.android/build-cache/8a7e436a5840da29da56b046626d1a5b834f0f04/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/inspire11/.android/build-cache/c149c430cedf7a2c20c38b39de905fb0833449fc/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/inspire11/.android/build-cache/3999ed7b8e006b51f7f3d93d264343fb9a18caa2/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/inspire11/.android/build-cache/3d5ad81d4c94ac22eef32738738666d4f08a62c6/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/inspire11/.android/build-cache/54a549a546fc66490d6153ef9ef10def5574fe52/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/inspire11/.android/build-cache/7d7b2010797900c87ad04fb6803d4d0f4c1718d4/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/inspire11/.android/build-cache/f4050aaddfd22e0d1c94372710315179886ea0db/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] /Users/inspire11/.android/build-cache/c445ff40691f5c9f8ca7d9d00226e41efafecd47/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/inspire11/.android/build-cache/6023367b9d44c08f01043a916e695b736a6414ba/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /Users/inspire11/.android/build-cache/9a5adfb903f216819ec63ce51934be8c83c9cfe9/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] /Users/inspire11/.android/build-cache/d73ebd3db1882d4f979164725bc398c91b794928/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/inspire11/.android/build-cache/fcbb887a9ebbd83751e7753e3c20264bcbd2676c/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/inspire11/.android/build-cache/36dda28aa1e24d174f876671cad0ae9ed4293be3/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.raizlabs.android:DBFlow:2.2.1] /Users/inspire11/.android/build-cache/2dade0b2fab8836067ab89ba6ca614daccdedfa2/output/AndroidManifest.xml:11:5-20
+MERGED from [net.openid:appauth:0.4.1] /Users/inspire11/.android/build-cache/5551bdf46308af8c00e6bf955853c51751976d48/output/AndroidManifest.xml:26:5-44:19
+MERGED from [com.android.support:customtabs:26.0.1] /Users/inspire11/.android/build-cache/b4f2e10e6c4051116a70f0097b50eb02c12538c5/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.airbnb.android:lottie:2.2.0] /Users/inspire11/.android/build-cache/51a20151636c9078374c3f73670cbe14cc4b7d81/output/AndroidManifest.xml:10:5-20
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/inspire11/.android/build-cache/f214dcf7e0637a717bfe5aff1d6eb686b2a8115a/output/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:18:5-28:19
+MERGED from [com.android.support:exifinterface:26.0.1] /Users/inspire11/.android/build-cache/931d73963aa5decc4c919ca75c1ec1491e4df40b/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android:cameraview:1.0.0] /Users/inspire11/.android/build-cache/1d3af972d2ccc98fed94211bf8bc6bcf548d411c/output/AndroidManifest.xml:32:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/inspire11/.android/build-cache/a12330202a3d627b07db333412133238be4e4e05/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/inspire11/.android/build-cache/25cccbfeb48a762a2ea6f0cc6c44746dedd1a58c/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-core:9.8.0] /Users/inspire11/.android/build-cache/51c6bdc04d3e670146435418a7784d47845773f6/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/inspire11/.android/build-cache/3a54db8f376c504739d4bc03a6fb236ddae5b99a/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/inspire11/.android/build-cache/60773acceaed9c4522929b9d59216ce8e81abbfa/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/inspire11/.android/build-cache/045f3c6cac39ac819da5d3048cd2b534d113cf34/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/inspire11/.android/build-cache/9b19f9318c9c217207f63cbc347bb8843a79721c/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/inspire11/.android/build-cache/61679d1d424535c872d01f7c68c0fde6e9125e48/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/inspire11/.android/build-cache/605194c34ae696711bd225efcde16741418078fb/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/inspire11/.android/build-cache/90b10b747ffbc931865d00a9b8c91f2853cdebf6/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/inspire11/.android/build-cache/e56d792da7ecc8c666b06effbeaa6e670780d2b0/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/inspire11/.android/build-cache/07c7ee9ed156604e134450fc767210c078e69e00/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /Users/inspire11/.android/build-cache/d8f5fcfa1cf2c8d96ad73e8327d9b286cbd606fe/output/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:49:5-37
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.28.0] /Users/inspire11/.android/build-cache/9b858482754296b0083522932fbb221d20cf5b28/output/AndroidManifest.xml:28:18-44
+	android:allowBackup
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:47:5-31
+	android:icon
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:48:5-39
+	android:largeHeap
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:50:5-29
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:46:5-36
+activity#host.exp.exponent.LauncherActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:52:5-66:16
+	android:screenOrientation
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:56:7-43
+	android:launchMode
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:55:7-38
+	android:exported
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:54:7-30
+	android:theme
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:57:7-66
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:53:7-39
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:58:7-65:23
+data
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:59:9-69
+	android:scheme
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:59:15-67
+action#android.intent.action.VIEW
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:61:9-60
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:61:17-58
+category#android.intent.category.DEFAULT
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:63:9-67
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:63:19-65
+category#android.intent.category.BROWSABLE
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:64:9-69
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:64:19-67
+activity#host.exp.exponent.experience.ExperienceActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:68:5-73:16
+	android:windowSoftInputMode
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:72:7-49
+	android:configChanges
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:70:7-77
+	android:theme
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:71:7-50
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:69:7-52
+activity#host.exp.exponent.MainActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:75:5-85:16
+	android:windowSoftInputMode
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:79:7-49
+	android:configChanges
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:77:7-77
+	android:theme
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:78:7-51
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:76:7-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:80:7-84:23
+action#android.intent.action.MAIN
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:81:9-60
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:81:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:83:9-68
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:83:19-66
+activity#host.exp.exponent.experience.ShellAppActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:87:5-93:16
+	android:windowSoftInputMode
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:91:7-49
+	android:configChanges
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:89:7-77
+	android:theme
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:90:7-51
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:88:7-50
+activity#host.exp.exponent.experience.HomeActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:95:5-101:16
+	android:screenOrientation
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:99:7-43
+	android:label
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:97:7-39
+	android:launchMode
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:98:7-38
+	android:theme
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:100:7-50
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:96:7-46
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:103:5-81
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:103:15-79
+activity#abi26_0_0.com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:105:5-91
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:105:15-89
+activity#abi25_0_0.com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:106:5-91
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:106:15-89
+activity#abi24_0_0.com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:107:5-91
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:107:15-89
+activity#abi23_0_0.com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:108:5-91
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:108:15-89
+activity#abi22_0_0.com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:109:5-91
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:109:15-89
+activity#abi21_0_0.com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:110:5-91
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:110:15-89
+activity#abi20_0_0.com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:111:5-91
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:111:15-89
+activity#host.exp.exponent.ExponentDevActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:113:5-120:16
+	android:screenOrientation
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:117:7-43
+	android:label
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:116:7-48
+	android:exported
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:115:7-30
+	android:windowSoftInputMode
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:119:7-46
+	android:theme
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:118:7-49
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:114:7-42
+activity#host.exp.exponent.oauth.OAuthWebViewActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:122:5-126:16
+	android:screenOrientation
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:124:7-43
+	android:theme
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:125:7-50
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:123:7-49
+activity#net.openid.appauth.RedirectUriReceiverActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:128:5-137:16
+REJECTED from [net.openid:appauth:0.4.1] /Users/inspire11/.android/build-cache/5551bdf46308af8c00e6bf955853c51751976d48/output/AndroidManifest.xml:32:9-43:20
+	tools:node
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:130:9-29
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:129:9-70
+activity#host.exp.exponent.oauth.OAuthResultActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:139:5-141:16
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:140:7-48
+activity#host.exp.exponent.chrometabs.ChromeTabsManagerActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:143:5-145:16
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:144:7-59
+activity#host.exp.exponent.experience.ErrorActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:147:5-151:16
+	android:screenOrientation
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:150:7-43
+	android:theme
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:149:7-49
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:148:7-47
+activity#host.exp.exponent.experience.InfoActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:153:5-157:16
+	android:screenOrientation
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:155:7-43
+	android:theme
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:156:7-50
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:154:7-46
+activity#com.facebook.FacebookActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:159:5-164:39
+MERGED from [com.facebook.android:facebook-common:4.28.0] /Users/inspire11/.android/build-cache/cc7ab54423473c8ae2e87747157fba2eee8a499b/output/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:162:7-39
+	android:configChanges
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:161:7-90
+	android:theme
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:163:7-66
+		REJECTED from [com.facebook.android:facebook-common:4.28.0] /Users/inspire11/.android/build-cache/cc7ab54423473c8ae2e87747157fba2eee8a499b/output/AndroidManifest.xml:32:13-63
+	tools:replace
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:164:7-36
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:160:7-51
+activity#com.facebook.ads.InterstitialAdActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:166:5-170:69
+	android:label
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:169:7-39
+	android:configChanges
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:168:7-90
+	android:theme
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:170:7-66
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:167:7-61
+service#host.exp.exponent.ExponentIntentService
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:172:5-174:34
+	android:exported
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:174:7-31
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:173:7-44
+receiver#host.exp.exponent.referrer.InstallReferrerReceiver
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:177:5-183:16
+	android:exported
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:179:7-30
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:178:7-72
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:180:7-182:23
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:181:9-71
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:181:17-68
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:193:5-198:16
+	android:enabled
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:194:15-37
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:193:15-80
+intent-filter#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:195:7-197:23
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:196:9-86
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:196:17-83
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:200:5-202:40
+	android:enabled
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:201:14-36
+	android:exported
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:202:14-38
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:200:14-78
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:205:5-215:16
+	android:exported
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:207:7-30
+	android:permission
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:208:7-67
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:206:7-60
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+example.test.app
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:209:7-214:23
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:210:9-72
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:210:17-70
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:211:9-77
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:211:17-75
+category#example.test.app
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:213:9-52
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:213:19-50
+service#host.exp.exponent.gcm.ExponentGcmListenerService
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:217:5-223:15
+	android:exported
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:219:7-31
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:218:7-53
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:220:7-222:23
+service#host.exp.exponent.gcm.ExponentInstanceIDListenerService
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:224:5-230:15
+	android:exported
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:226:7-31
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:225:7-60
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:227:7-229:23
+action#com.google.android.gms.iid.InstanceID
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:228:9-71
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:228:17-69
+service#host.exp.exponent.gcm.RegistrationIntentService
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:231:5-234:15
+	android:exported
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:233:7-31
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:232:7-52
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:237:5-240:16
+	android:theme
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:239:7-50
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:238:7-70
+meta-data#io.fabric.ApiKey
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:245:5-247:65
+	android:value
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:247:7-63
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:246:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:252:5-254:64
+	android:value
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:254:7-62
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:253:7-52
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:260:5-83
+	android:value
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:260:62-81
+	android:name
+		ADDED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml:260:16-61
+uses-sdk
+INJECTED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/inspire11/.android/build-cache/ef4e9e26306f0d33f6804660944a863060e9d367/output/AndroidManifest.xml:18:5-42
+MERGED from [com.facebook.react:react-native:26.0.0] /Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/inspire11/.android/build-cache/449d7faa978b21ade2381f9f169c072742702106/output/AndroidManifest.xml:5:5-7:41
+MERGED from [host.exp:reactandroid-abi26_0_0:1.0.0] /Users/inspire11/.android/build-cache/3c0ba151039eca5c3b665a5722bfa6e561e50b02/output/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi25_0_0:1.0.0] /Users/inspire11/.android/build-cache/004691b44faf49dcc16caff02b8d77a6ffcd02d1/output/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi24_0_0:1.0.0] /Users/inspire11/.android/build-cache/2a6cdac4df1df46b80dd8495b668e8c68a19e712/output/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi23:1.0.0] /Users/inspire11/.android/build-cache/c56c3637bc0eb3999f4a7639611c2c0548f82e15/output/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi22:1.0.0] /Users/inspire11/.android/build-cache/82ae6eaf3446cc70ecaf2297bbd812a7f7e137c5/output/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi21:1.0.0] /Users/inspire11/.android/build-cache/b7df33d92badcb63c303e24df406c69cf9439b58/output/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp:reactandroid-abi20:1.0.0] /Users/inspire11/.android/build-cache/50cd88f28e3f8d14478cbb654d2dcdbe2f63aefd/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/inspire11/.android/build-cache/fe03770a1e03d18a9b108711200176d3710a6dae/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/inspire11/.android/build-cache/fb0f39856b89a17ebb2c39c4efddaba1ae7642b9/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/inspire11/.android/build-cache/240047c0d70c35b026e4c9423355701abdf4505d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.0.1] /Users/inspire11/.android/build-cache/acb4639d0d6eef9acd181e24929f61aa44914a0b/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:1.0.1] /Users/inspire11/.android/build-cache/d24a456fe1eed406010eb6663bc4c50ba4c3d6c3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.0.1] /Users/inspire11/.android/build-cache/4106eb24e0d2b2c53b76a2c1a034ea873746b99e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/inspire11/.android/build-cache/d8028e0f80a9fc2ff01c6ba4a25bc4b461868589/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:1.0.1] /Users/inspire11/.android/build-cache/54c4d7557cd9048bfc43f9ac9c25abd2927ddd27/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/inspire11/.android/build-cache/535568a05437be1f3b9006d6e3bd68fc711f4f34/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/inspire11/.android/build-cache/86a903fa9f9d69dd1b98fddcec462d59d30a6fe3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [expolib_v1.com.facebook.fresco:expolib_v1-imagepipeline-okhttp3:1.0.1] /Users/inspire11/.android/build-cache/ad6f695222fb44ccc2c28ce23008dc03398ee6ff/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/inspire11/.android/build-cache/2b60fcb467a29ea349099bc87648a6340d6cbc64/output/AndroidManifest.xml:2:3-70
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /Users/inspire11/.android/build-cache/8576b3dbe231238fba73912939c503db42e534dd/output/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] /Users/inspire11/.android/build-cache/3a8d49188418fdf16dc7e3fb60d8b8385b501ce8/output/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/inspire11/.android/build-cache/ecbb6cf53ddbb9366ad74a6942eeec9de16c179c/output/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/inspire11/.android/build-cache/f05764534f941551f12fb781a547de1b172236a7/output/AndroidManifest.xml:23:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] /Users/inspire11/.android/build-cache/06de1d6cbff3a878456d54a523054d3e49f1459a/output/AndroidManifest.xml:7:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /Users/inspire11/.android/build-cache/9b858482754296b0083522932fbb221d20cf5b28/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.28.0] /Users/inspire11/.android/build-cache/ee40501d6f193961be85ccb01704e384450f8d0c/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.28.0] /Users/inspire11/.android/build-cache/2e2bd85360fc86c593ac23a8d21f93c209eb8cb8/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.28.0] /Users/inspire11/.android/build-cache/cc7ab54423473c8ae2e87747157fba2eee8a499b/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:26.0.1] /Users/inspire11/.android/build-cache/5efbbc11e60be63f9d7acde2b8c1951d17b777d2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.28.0] /Users/inspire11/.android/build-cache/8bb5b23fdc08d01196871e7880fb1c140e09cf07/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /Users/inspire11/.android/build-cache/b5eabae9d1d4391ab3b5c2b1034befa5a99a8cca/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /Users/inspire11/.android/build-cache/2bd0cb0499527b92daa02616b942ebe63ac3fecf/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.28.0] /Users/inspire11/.android/build-cache/ef96964dbf4086d9d481a33779910095e47c4efa/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:audience-network-sdk:4.26.1] /Users/inspire11/.android/build-cache/b38ffef7b953e19ec8c7bfc90e4d94c801b93093/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/inspire11/.android/build-cache/ca933e5cce5a248957c98e277356aa161d9bfda6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:r2.0.3] /Users/inspire11/.android/build-cache/0cc4da5f904171e2fd84ee895436e8ac46400471/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/inspire11/.android/build-cache/43c730d4d0813e48773befe961eaafb63cc7a977/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/inspire11/.android/build-cache/8a7e436a5840da29da56b046626d1a5b834f0f04/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/inspire11/.android/build-cache/c149c430cedf7a2c20c38b39de905fb0833449fc/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/inspire11/.android/build-cache/3999ed7b8e006b51f7f3d93d264343fb9a18caa2/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/inspire11/.android/build-cache/3d5ad81d4c94ac22eef32738738666d4f08a62c6/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] /Users/inspire11/.android/build-cache/874f94869854e8e9040f74b349ba51397e5a6e03/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] /Users/inspire11/.android/build-cache/ad702976332720a0f4b60e1b6365527c465dabc8/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/inspire11/.android/build-cache/54a549a546fc66490d6153ef9ef10def5574fe52/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/inspire11/.android/build-cache/7d7b2010797900c87ad04fb6803d4d0f4c1718d4/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/inspire11/.android/build-cache/f4050aaddfd22e0d1c94372710315179886ea0db/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] /Users/inspire11/.android/build-cache/c445ff40691f5c9f8ca7d9d00226e41efafecd47/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/inspire11/.android/build-cache/6023367b9d44c08f01043a916e695b736a6414ba/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /Users/inspire11/.android/build-cache/9a5adfb903f216819ec63ce51934be8c83c9cfe9/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.8.0] /Users/inspire11/.android/build-cache/839fa8d65f132ee893574435c1a75e13007d4834/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] /Users/inspire11/.android/build-cache/d73ebd3db1882d4f979164725bc398c91b794928/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/inspire11/.android/build-cache/fcbb887a9ebbd83751e7753e3c20264bcbd2676c/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/inspire11/.android/build-cache/36dda28aa1e24d174f876671cad0ae9ed4293be3/output/AndroidManifest.xml:17:5-42
+MERGED from [com.stripe:stripe-android:2.1.0] /Users/inspire11/.android/build-cache/cd6292f0a3f7615c5f9b7ec5011bd72bf8685fc7/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.thefuntasty:CreditCardEntry:1.4.8.4] /Users/inspire11/.android/build-cache/416816c04957432605f62c5ef92eedaaae909670/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.raizlabs.android:DBFlow:2.2.1] /Users/inspire11/.android/build-cache/2dade0b2fab8836067ab89ba6ca614daccdedfa2/output/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] /Users/inspire11/.android/build-cache/2185da8bc057231ea46ea8f1b89bb7eb91f6eb9e/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.1] /Users/inspire11/.android/build-cache/f2d8a7afad3e3145f4bb817dfc4ca04b3cc9e4b3/output/AndroidManifest.xml:8:5-10:41
+MERGED from [net.openid:appauth:0.4.1] /Users/inspire11/.android/build-cache/5551bdf46308af8c00e6bf955853c51751976d48/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:customtabs:26.0.1] /Users/inspire11/.android/build-cache/b4f2e10e6c4051116a70f0097b50eb02c12538c5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.airbnb.android:lottie:2.2.0] /Users/inspire11/.android/build-cache/51a20151636c9078374c3f73670cbe14cc4b7d81/output/AndroidManifest.xml:6:5-8:41
+MERGED from [io.branch.sdk.android:library:2.6.1] /Users/inspire11/.android/build-cache/02fc7ef2c8b1c414677d8e5ae689ecbb758cbde5/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/inspire11/.android/build-cache/f214dcf7e0637a717bfe5aff1d6eb686b2a8115a/output/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:exifinterface:26.0.1] /Users/inspire11/.android/build-cache/931d73963aa5decc4c919ca75c1ec1491e4df40b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android:cameraview:1.0.0] /Users/inspire11/.android/build-cache/1d3af972d2ccc98fed94211bf8bc6bcf548d411c/output/AndroidManifest.xml:19:5-21:41
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/inspire11/.android/build-cache/a12330202a3d627b07db333412133238be4e4e05/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/inspire11/.android/build-cache/25cccbfeb48a762a2ea6f0cc6c44746dedd1a58c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:9.8.0] /Users/inspire11/.android/build-cache/51c6bdc04d3e670146435418a7784d47845773f6/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/inspire11/.android/build-cache/3a54db8f376c504739d4bc03a6fb236ddae5b99a/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/inspire11/.android/build-cache/60773acceaed9c4522929b9d59216ce8e81abbfa/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/inspire11/.android/build-cache/045f3c6cac39ac819da5d3048cd2b534d113cf34/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/inspire11/.android/build-cache/9b19f9318c9c217207f63cbc347bb8843a79721c/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.0.1] /Users/inspire11/.android/build-cache/61679d1d424535c872d01f7c68c0fde6e9125e48/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/inspire11/.android/build-cache/605194c34ae696711bd225efcde16741418078fb/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/inspire11/.android/build-cache/90b10b747ffbc931865d00a9b8c91f2853cdebf6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/inspire11/.android/build-cache/e56d792da7ecc8c666b06effbeaa6e670780d2b0/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/inspire11/.android/build-cache/07c7ee9ed156604e134450fc767210c078e69e00/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.1] /Users/inspire11/.android/build-cache/d8f5fcfa1cf2c8d96ad73e8327d9b286cbd606fe/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta1] /Users/inspire11/.android/build-cache/32b3dd8b8928cff8d67ed9c1922d874b885a5cf3/output/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:11:5-17:24
+	android:largeScreens
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:14:9-37
+	android:xlargeScreens
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:16:9-37
+	android:anyDensity
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:12:9-34
+uses-permission#host.exp.exponent.permission.C2D_MESSAGE
+ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:23:22-77
+uses-feature#android.hardware.camera
+ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:40:5-42:36
+MERGED from [com.google.android:cameraview:1.0.0] /Users/inspire11/.android/build-cache/1d3af972d2ccc98fed94211bf8bc6bcf548d411c/output/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:42:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:41:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:43:5-45:36
+MERGED from [com.google.android:cameraview:1.0.0] /Users/inspire11/.android/build-cache/1d3af972d2ccc98fed94211bf8bc6bcf548d411c/output/AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:45:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:44:9-57
+uses-feature#android.hardware.location
+ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:46:5-48:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:48:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:47:9-49
+uses-feature#android.hardware.location.gps
+ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:49:5-51:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:51:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:50:9-53
+uses-feature#android.hardware.location.network
+ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:52:5-54:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:54:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:53:9-57
+uses-feature#android.hardware.wifi
+ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:55:5-57:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:57:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:56:9-45
+uses-feature#android.hardware.microphone
+ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:58:5-60:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:60:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:59:9-51
+uses-feature#android.hardware.telephony
+ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:61:5-63:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:63:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:62:9-50
+uses-feature#android.hardware.bluetooth
+ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:64:5-66:36
+	android:required
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:66:9-33
+	android:name
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:65:9-50
+receiver#host.exp.exponent.notifications.ScheduledNotificationReceiver
+ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:71:9-73:40
+	android:exported
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:73:13-37
+	android:name
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:72:13-89
+provider#android.support.v4.content.FileProvider
+ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:75:9-83:20
+	android:authorities
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:77:13-60
+	android:grantUriPermissions
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:79:13-47
+	android:exported
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:78:13-37
+	android:name
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:76:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:80:13-82:58
+	android:resource
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:82:17-55
+	android:name
+		ADDED from [host.exp.exponent:expoview:26.0.0] /Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/AndroidManifest.xml:81:17-67
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.28.0] /Users/inspire11/.android/build-cache/cc7ab54423473c8ae2e87747157fba2eee8a499b/output/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.28.0] /Users/inspire11/.android/build-cache/cc7ab54423473c8ae2e87747157fba2eee8a499b/output/AndroidManifest.xml:33:19-68
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.1] /Users/inspire11/.android/build-cache/5efbbc11e60be63f9d7acde2b8c1951d17b777d2/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/inspire11/.android/build-cache/ca933e5cce5a248957c98e277356aa161d9bfda6/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.0.1] /Users/inspire11/.android/build-cache/b4f2e10e6c4051116a70f0097b50eb02c12538c5/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:exifinterface:26.0.1] /Users/inspire11/.android/build-cache/931d73963aa5decc4c919ca75c1ec1491e4df40b/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/inspire11/.android/build-cache/a12330202a3d627b07db333412133238be4e4e05/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/inspire11/.android/build-cache/25cccbfeb48a762a2ea6f0cc6c44746dedd1a58c/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/inspire11/.android/build-cache/61679d1d424535c872d01f7c68c0fde6e9125e48/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/inspire11/.android/build-cache/605194c34ae696711bd225efcde16741418078fb/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/inspire11/.android/build-cache/90b10b747ffbc931865d00a9b8c91f2853cdebf6/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/inspire11/.android/build-cache/e56d792da7ecc8c666b06effbeaa6e670780d2b0/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/inspire11/.android/build-cache/07c7ee9ed156604e134450fc767210c078e69e00/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /Users/inspire11/.android/build-cache/d8f5fcfa1cf2c8d96ad73e8327d9b286cbd606fe/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.1] /Users/inspire11/.android/build-cache/5efbbc11e60be63f9d7acde2b8c1951d17b777d2/output/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.1] /Users/inspire11/.android/build-cache/5efbbc11e60be63f9d7acde2b8c1951d17b777d2/output/AndroidManifest.xml:24:13-51
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.28.0] /Users/inspire11/.android/build-cache/ef96964dbf4086d9d481a33779910095e47c4efa/output/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /Users/inspire11/.android/build-cache/ef96964dbf4086d9d481a33779910095e47c4efa/output/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /Users/inspire11/.android/build-cache/ef96964dbf4086d9d481a33779910095e47c4efa/output/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /Users/inspire11/.android/build-cache/ef96964dbf4086d9d481a33779910095e47c4efa/output/AndroidManifest.xml:40:13-70
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:4.26.1] /Users/inspire11/.android/build-cache/b38ffef7b953e19ec8c7bfc90e4d94c801b93093/output/AndroidManifest.xml:15:9-17:77
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:4.26.1] /Users/inspire11/.android/build-cache/b38ffef7b953e19ec8c7bfc90e4d94c801b93093/output/AndroidManifest.xml:17:13-74
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:4.26.1] /Users/inspire11/.android/build-cache/b38ffef7b953e19ec8c7bfc90e4d94c801b93093/output/AndroidManifest.xml:16:13-68
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/inspire11/.android/build-cache/3d5ad81d4c94ac22eef32738738666d4f08a62c6/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/inspire11/.android/build-cache/3d5ad81d4c94ac22eef32738738666d4f08a62c6/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/inspire11/.android/build-cache/3d5ad81d4c94ac22eef32738738666d4f08a62c6/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/inspire11/.android/build-cache/3d5ad81d4c94ac22eef32738738666d4f08a62c6/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/inspire11/.android/build-cache/3d5ad81d4c94ac22eef32738738666d4f08a62c6/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/inspire11/.android/build-cache/3d5ad81d4c94ac22eef32738738666d4f08a62c6/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/inspire11/.android/build-cache/3d5ad81d4c94ac22eef32738738666d4f08a62c6/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/inspire11/.android/build-cache/3d5ad81d4c94ac22eef32738738666d4f08a62c6/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/inspire11/.android/build-cache/3d5ad81d4c94ac22eef32738738666d4f08a62c6/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/inspire11/.android/build-cache/54a549a546fc66490d6153ef9ef10def5574fe52/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/inspire11/.android/build-cache/54a549a546fc66490d6153ef9ef10def5574fe52/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/inspire11/.android/build-cache/54a549a546fc66490d6153ef9ef10def5574fe52/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/inspire11/.android/build-cache/54a549a546fc66490d6153ef9ef10def5574fe52/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/inspire11/.android/build-cache/54a549a546fc66490d6153ef9ef10def5574fe52/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/inspire11/.android/build-cache/54a549a546fc66490d6153ef9ef10def5574fe52/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/inspire11/.android/build-cache/54a549a546fc66490d6153ef9ef10def5574fe52/output/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/inspire11/.android/build-cache/36dda28aa1e24d174f876671cad0ae9ed4293be3/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/inspire11/.android/build-cache/36dda28aa1e24d174f876671cad0ae9ed4293be3/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/inspire11/.android/build-cache/36dda28aa1e24d174f876671cad0ae9ed4293be3/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/inspire11/.android/build-cache/36dda28aa1e24d174f876671cad0ae9ed4293be3/output/AndroidManifest.xml:19:19-85
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:27:22-85
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:30:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:30:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:33:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/AndroidManifest.xml:33:22-80
+activity#net.openid.appauth.AuthorizationManagementActivity
+ADDED from [net.openid:appauth:0.4.1] /Users/inspire11/.android/build-cache/5551bdf46308af8c00e6bf955853c51751976d48/output/AndroidManifest.xml:27:9-31:75
+	android:launchMode
+		ADDED from [net.openid:appauth:0.4.1] /Users/inspire11/.android/build-cache/5551bdf46308af8c00e6bf955853c51751976d48/output/AndroidManifest.xml:30:13-44
+	android:exported
+		ADDED from [net.openid:appauth:0.4.1] /Users/inspire11/.android/build-cache/5551bdf46308af8c00e6bf955853c51751976d48/output/AndroidManifest.xml:29:13-37
+	android:theme
+		ADDED from [net.openid:appauth:0.4.1] /Users/inspire11/.android/build-cache/5551bdf46308af8c00e6bf955853c51751976d48/output/AndroidManifest.xml:31:13-72
+	android:name
+		ADDED from [net.openid:appauth:0.4.1] /Users/inspire11/.android/build-cache/5551bdf46308af8c00e6bf955853c51751976d48/output/AndroidManifest.xml:28:13-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/AndroidManifest.xml:26:13-120
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/inspire11/.android/build-cache/3a54db8f376c504739d4bc03a6fb236ddae5b99a/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:27:17-104
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/inspire11/.android/build-cache/3a54db8f376c504739d4bc03a6fb236ddae5b99a/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/AndroidManifest.xml:32:16-87
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:31:13-35:29
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/inspire11/.android/build-cache/60773acceaed9c4522929b9d59216ce8e81abbfa/output/AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/inspire11/.android/build-cache/60773acceaed9c4522929b9d59216ce8e81abbfa/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/inspire11/.android/build-cache/60773acceaed9c4522929b9d59216ce8e81abbfa/output/AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/inspire11/.android/build-cache/60773acceaed9c4522929b9d59216ce8e81abbfa/output/AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/inspire11/.android/build-cache/60773acceaed9c4522929b9d59216ce8e81abbfa/output/AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/inspire11/.android/build-cache/9b19f9318c9c217207f63cbc347bb8843a79721c/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/inspire11/.android/build-cache/9b19f9318c9c217207f63cbc347bb8843a79721c/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/inspire11/.android/build-cache/9b19f9318c9c217207f63cbc347bb8843a79721c/output/AndroidManifest.xml:20:20-65

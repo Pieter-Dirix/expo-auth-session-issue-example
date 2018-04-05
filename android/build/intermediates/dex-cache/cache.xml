@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/2e2bd85360fc86c593ac23a8d21f93c209eb8cb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dc83ab7a5ce1e0296cf18a52a6edbcfef815e6cf">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_928e39a88b0ab23467cf8e2607f0d35a9b98ea07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/8576b3dbe231238fba73912939c503db42e534dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="611605b6b640c1558f9bdea41de8ff837ab68ca8">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_fd3568036039402ef2609fbfd92a8e9a25ac4e1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/fb0f39856b89a17ebb2c39c4efddaba1ae7642b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_65bd113c723cb3562c4b974b27e540c4885d5069/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/cc7ab54423473c8ae2e87747157fba2eee8a499b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="287f4dec8dc2d40a238b12562b437438499cd2fb">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_07efac64851b8d9685c6a2b2f8b33ac7e7c4be47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okhttp-3.4.1_d9cc29898a628f27d2447deade6edd420e65d076/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/2dade0b2fab8836067ab89ba6ca614daccdedfa2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53dc9d74b0ac22d201549cd806780597d9679e9a">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_2edc0730faccd71318689455e72f59450073bb2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/54c4d7557cd9048bfc43f9ac9c25abd2927ddd27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="03530f261b6f66dbcae414f12c732bd943f5ba53">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_2d49d96dce1b943c304be45463defcc9d7e00c1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/25cccbfeb48a762a2ea6f0cc6c44746dedd1a58c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_2f778b50a646997fc23533052c7fa56fffac5647/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/3a54db8f376c504739d4bc03a6fb236ddae5b99a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_48f0887d4c0e12f9ce82667f80410a53ecf77d36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/bolts-applinks-1.4.0_377e50928a1ad887a988fb21183c27617ce14526/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/c149c430cedf7a2c20c38b39de905fb0833449fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_e814ffdcaa1c3c57c810f227fc6040783014e378/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/ef96964dbf4086d9d481a33779910095e47c4efa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ab6e491b5d7bda2f47991a30f6bfe9a8b134ff8b">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_b93af8691161b8818800022ab10e245fe9243f70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/2185da8bc057231ea46ea8f1b89bb7eb91f6eb9e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a88eaa7f9a31907def9a7968367475bdf5170be">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_d0c832fba6e710e369eb18ef09a5ce2ec809c9bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/ad6f695222fb44ccc2c28ce23008dc03398ee6ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a34a28ae586a32e1a33eeb63378732b473cad2be">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_0207162c931fb387bc5926b46710c0e24895d4b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/06de1d6cbff3a878456d54a523054d3e49f1459a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ad5bb101ced4d3939225c9b57e5a3d81547c1fbb">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_82e33add0f751ced74366a9883ffa78a7b216116/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/50cd88f28e3f8d14478cbb654d2dcdbe2f63aefd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a774607cf90ca991586347daa59ed0de0ad9cb49">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_af05f2695b4cdfafc10883b72899a1bd5fcdf85c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/32b3dd8b8928cff8d67ed9c1922d874b885a5cf3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42a37372fca7123a593202ba76a7f98fbd691f05">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_6c50628c2e57a48cf0a4ec1385df72073f0c2a54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/acb4639d0d6eef9acd181e24929f61aa44914a0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="131115ec18ae3951c1584c543de8baa9ac20012a">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_a7a488209834a13424f7293ebc015f9d3d3eab8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/02fc7ef2c8b1c414677d8e5ae689ecbb758cbde5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af69623378285932372eb7b3b8ff0ef66fa42b93">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_23e64aa42beac89ff3239cd9c3c45db4f39d1152/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okhttp-urlconnection-3.4.1_869a4d958a692b3cba27e8ea73255ebc5ed0bab7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/9b858482754296b0083522932fbb221d20cf5b28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_5368b89efd15846484f1e3c14f80fe228b6da8fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/416816c04957432605f62c5ef92eedaaae909670/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9111e38999fee0b16a1ccd057b779f5b08f330e2">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_c12811946dc8163c486d57275ea9c53648437e79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/54a549a546fc66490d6153ef9ef10def5574fe52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_22414eddd8406305d07026dc68ad45a44b8309d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/3999ed7b8e006b51f7f3d93d264343fb9a18caa2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_a05a18adf906262f63e3bd9b8befc6e6ca0df79d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/b4f2e10e6c4051116a70f0097b50eb02c12538c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="906fdd57c143ec9adc27a76a697fed1c0cfd6348">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_759d06373aa28deabff1f0466bcf96ea47740d0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/874f94869854e8e9040f74b349ba51397e5a6e03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_7f28cfd43aeaa1154ba4d1506d09b6bfb68877db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/51a20151636c9078374c3f73670cbe14cc4b7d81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec224ad624f39212bacaf5903d989fe066166e7a">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_23fa671db81a210a9e9492615e1f57ed8dee1132/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/2a6cdac4df1df46b80dd8495b668e8c68a19e712/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6172a6e0872c156ae82fe8b51d82b2daed424aa">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_9e4edb2dd5ca03f4b16c3565516cc841bfef33ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/picasso-2.5.2_6ba4f47319ec8ce186d21ee66e6a798eb690dda3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.segment.analytics.android/analytics/4.3.0/88ab91d4641af4bed4b39aa3fd7cf487b66b9d5e/analytics-4.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88ab91d4641af4bed4b39aa3fd7cf487b66b9d5e">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/analytics-4.3.0_39418b423eb14300abd82b277de765df1cee6ec7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/931d73963aa5decc4c919ca75c1ec1491e4df40b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c83a644dfc8545d77ed076721762fc4eb4092d81">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_28421a1bd254a7573d8ce8ac1b023a8e5467a128/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/c56c3637bc0eb3999f4a7639611c2c0548f82e15/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82231c00c16c59ee23a508bec9fc6bc3e60c96b2">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_09bdba4090b34ea56296729c791ac506dc2bb51c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/605194c34ae696711bd225efcde16741418078fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_7f0b2d80cab306c674d53f0bf9f6d502baef801a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/universal-image-loader-1.9.5_930a126ee28750ad96e6acbd4f458f2ad7df40eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/javax.inject-1_58b55c7b41b2a2c2495eed955bd218c3b09dde24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/fe03770a1e03d18a9b108711200176d3710a6dae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_59bf8579926a176c6f52145532d6a6caff189e4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/ecbb6cf53ddbb9366ad74a6942eeec9de16c179c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9af3b9b8114e685291aa00e6572b0a9131244956">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_7bf863f1fb48a7c43bc5b0c49be500d8bb24d761/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/Apps/app-auth-initialuri-issue/android/maven/expolib_v1/com/squareup/okhttp3/okhttp/3.6.0/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="565de69ddf97fffe074cba6cb0512520cdce4394">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okhttp-3.6.0_edf33772276f3270bded8e0e7284914183c4eccc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/ef4e9e26306f0d33f6804660944a863060e9d367/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_9f76a1dc0cf0b3ca8b641c102a9a04fe59b1032e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/5551bdf46308af8c00e6bf955853c51751976d48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7bf36963372211d8b9e000939020b1c3242234e">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_f0e475929a9d23badfe5ca50031c1aaf2b09d69e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/43c730d4d0813e48773befe961eaafb63cc7a977/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_bdd733727952cabd477301bc0a7d099dfacba63c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/535568a05437be1f3b9006d6e3bd68fc711f4f34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_1e86a17ee53b9bfb264dd4278a3ead87cca00176/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/commons-cli-1.2_80db0ced30aa99c4428a02499a9b02f62f45a3d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/9b19f9318c9c217207f63cbc347bb8843a79721c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_6deac5e2fcda46bd04f002f66052341c94217326/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/3c0ba151039eca5c3b665a5722bfa6e561e50b02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a315c4dce1b163f2ddf71bab62f3b56eb05c6a15">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_bd608dbcf50a20fc266799ef2f8159d0380cd34f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/36dda28aa1e24d174f876671cad0ae9ed4293be3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_1fd5897e3776034ebcc78d132cac8eaf8fef36b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/6023367b9d44c08f01043a916e695b736a6414ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_09d2be833ba31162e5f1d09bb96fcc89a0367539/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/c1dc420ed1256ad1171000c0785ad512c8ede006/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b346a5d3fc5d6d1d36c6262c8cc865b76df9f40c">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_e7ba0bc3d97f3876b486557f2330e9bb120e0adb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/commons-codec-1.10_140c5e53bef0f43efb27486103232a88e7599c74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/50cd88f28e3f8d14478cbb654d2dcdbe2f63aefd/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7a30a80d40b875fec941cafdceaf514b74ca6d76">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_6f7bed1062144b3fd29afe51f0e53016d872ad1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/045f3c6cac39ac819da5d3048cd2b534d113cf34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_04080d8731175753735a7def804793ff9e3eca31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/a12330202a3d627b07db333412133238be4e4e05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_e11804faf0448addab658e5e486d175db79bc4a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/b7df33d92badcb63c303e24df406c69cf9439b58/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9558f8bf566536221101e576b5c398787cfcbc3">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_a0da8d33270f818ef7c411f3964aa2377973fafe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/004691b44faf49dcc16caff02b8d77a6ffcd02d1/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea01f90e60978bc6871543cd76136a97a19450b5">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_72aadbce536485c03f930e6bcf2c5430554106f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okio-1.9.0_eabc5ffadf64144079fa62ec215f6ccb9d7a3e5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/8bb5b23fdc08d01196871e7880fb1c140e09cf07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_c4563f8e5aada969e42862c6c44ad4cf21515bf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp3/1.3.1/c596b3b33b5a92107bb70544bb5ee35f597bc6d8/stetho-okhttp3-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c596b3b33b5a92107bb70544bb5ee35f597bc6d8">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/stetho-okhttp3-1.3.1_942cc411d58f195e4cc31e5774b73ce5d59e5aba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/butterknife-7.0.1_240539ac64d9e3099c0e498c13f7df89447a1ba6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/2a6cdac4df1df46b80dd8495b668e8c68a19e712/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83d6e98f2b48f3cf1ec0e7c2b3bf2b3d4618f680">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_3a8131a3eb025d8284a222465268babc880de385/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/b38ffef7b953e19ec8c7bfc90e4d94c801b93093/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae2154348a4c38a18e8d1042cf445faea4647d0">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_3719937523a041069efbb3e2737454f3263200c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/staticlayout-proxy-1.0_2e8249b070ffcb2b55e46e6bab3793078f350144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/core-3.3.0_ad2b308620eee4560d0719acbb5ab8e037e0688a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9efb4d1173374e0c0072b5e36e7871112660dd3c">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_f7d005601fef4638f44420f5cc2a246c6c1c8587/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/0cc4da5f904171e2fd84ee895436e8ac46400471/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa112f9589a72edd6c8458764cd65e80a39e6d8c">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_60bdb5198ef0dbf1c5d60a873216e45048f3705c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/60773acceaed9c4522929b9d59216ce8e81abbfa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_6e0e9392e94af8eec2912bd3cd68dac4db80a9e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.3.1/2c4076b466a0eb4d6ddf5721edd35cd1adc1f317/stetho-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c4076b466a0eb4d6ddf5721edd35cd1adc1f317">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/stetho-1.3.1_d7ad069980ce4b57bdc25a60286b71d7f44207f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/3c0ba151039eca5c3b665a5722bfa6e561e50b02/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43579bbbc605c8815aa55ad85d856fb5588250d2">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_36850e21e60e7521f787d84353d13c5c3483b60d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/bolts-tasks-1.4.0_87c7ffdb2a5c783a48fd51623de49fcfbf0803f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/eventbus-2.4.0_30d711807a4c863ea8452eb19982b6de8bb1a8d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/d8028e0f80a9fc2ff01c6ba4a25bc4b461868589/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_133b7528d6e4f93f4f95de2f5e8db13708a109e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/f214dcf7e0637a717bfe5aff1d6eb686b2a8115a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffde64dbb0fc07c8b9735c6c42a06a36be15ed13">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_c7c47ab1ff141ad5f03f53375c8afae0c0a27da7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/f2d8a7afad3e3145f4bb817dfc4ca04b3cc9e4b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_2c4ffeeff0f614e00d31ff0b793237b34383f0d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/7d7b2010797900c87ad04fb6803d4d0f4c1718d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_ba4cde4f7b1186d72b10039534fa80e9b1e65ff4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/82ae6eaf3446cc70ecaf2297bbd812a7f7e137c5/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6eb79bde4cf6bbb7573bcf7dfbaf8a313f57612e">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_34302cee83d7a0384801e4fd099dc7ba59810519/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/2bd0cb0499527b92daa02616b942ebe63ac3fecf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_a31dba2d96c595cdd3fda7c095859d8f8e37c864/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/5efbbc11e60be63f9d7acde2b8c1951d17b777d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="10c32fcf3d0acc4b208fc39f8d2e16b69ef8bd3b">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_852ff66256d8494f8bc3bbf5b0f982248fcdcdfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/4106eb24e0d2b2c53b76a2c1a034ea873746b99e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="13469de5eef4b3c0488c0e4963fef197fc745f8a">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_64142db43bd5a559e21359f882239269d6d6f3c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/453198880d31c4ef77ae2ae30b8902035f418a24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_a84b31739c3381e6c5bf2851931eef6cb7f13f43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/c445ff40691f5c9f8ca7d9d00226e41efafecd47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_00dedb4a03b583dff21732ce2c9efe79b16f4e41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/ca933e5cce5a248957c98e277356aa161d9bfda6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_90ef838e680910ee07488ab17ea1b0c981529ae3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/004691b44faf49dcc16caff02b8d77a6ffcd02d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f1cc63c85dfeb86263311713a0810d23112495e">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_3942600fb01740ea52eed3735b3c63bf111848a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/b7df33d92badcb63c303e24df406c69cf9439b58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="68d8ffe33fc5c2feb623b2e216dfc180e7540cd5">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_6e29e2bfd1d0d50806444286acbe04ebf3fbe26f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/fcbb887a9ebbd83751e7753e3c20264bcbd2676c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_772d6cbbbef98d1e0725ee3830671e17a646ad47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/f05764534f941551f12fb781a547de1b172236a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_65fff75bf8cc534ecffeb8e5f851449602d9dbae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/Apps/app-auth-initialuri-issue/android/maven/expolib_v1/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="89890cffce351fec7caf3fdfd4351c7f4b4769b4">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okio-1.13.0_e687905ef5523f102a1daf8b4d4ed0cdc0ec6fc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/82ae6eaf3446cc70ecaf2297bbd812a7f7e137c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cac4539de2fbfcb1c4c44c55166f0332b92d34b7">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_b86a8cc30698bb5b9596a7e07ff565dcbf8bf43a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/61679d1d424535c872d01f7c68c0fde6e9125e48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_d537bd0ed083fe1c0a28150fb4c99660ddd05351/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/1d3af972d2ccc98fed94211bf8bc6bcf548d411c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae335c9696bc1513f7e3bb96a731b722712d7a63">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_8ca5d2363654d7085f970770b065daeabbbbe10f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9b8a151bbb87fe639150db51bf038e19edbfb651">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_d1f938ef26c91058c7e080c5ab0afa9879a6203d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/3a8d49188418fdf16dc7e3fb60d8b8385b501ce8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c9ef45dcbd082cd63aac09a5e2cd443adb5df837">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_daf4d674cc824fe78a9921eb582d067292d1ccfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/d24a456fe1eed406010eb6663bc4c50ba4c3d6c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="adfb92acadeeff1086115fff6b318e95df8b2b29">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_8d5e231cb1a4728e139c31e63530190156cafcee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okhttp-ws-3.4.1_bbc8866e17e9d7e82f177f086401de32e932d070/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/infer-annotations-4.0_05e5fda091196339c32168aa915750fd794e3dd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.madgag.spongycastle/prov/1.53.0.0/72c4892e05c7563fbab0c4ada0187cd879113389/prov-1.53.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72c4892e05c7563fbab0c4ada0187cd879113389">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/prov-1.53.0.0_fd0c2b2ee157dad81abef4007f5df4080c6eb0a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/86a903fa9f9d69dd1b98fddcec462d59d30a6fe3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_fa8832306f77a215fc77419ba91e18462e8d846e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/240047c0d70c35b026e4c9423355701abdf4505d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_429473c5030de1331c01f85df19b1137c6a25765/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/Apps/app-auth-initialuri-issue/android/maven/expolib_v1/com/squareup/okhttp3/okhttp-urlconnection/3.6.0/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae77d4921dcf287b3776baabfbca09b55616ab13">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okhttp-urlconnection-3.6.0_b294e7761bea878d3475e7ecd38f55e1437b34e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/9fb7eae161a816b9477429c65df2bc9e08666a14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="79b01f1eace6ce22c6ffd67000bd6b5c5d2477a9">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_de030a0b838e32ce7ee144e31f7a5eb0774cc637/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/b5eabae9d1d4391ab3b5c2b1034befa5a99a8cca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_acc425b1cd5b5effdee34a1be3200ab23177a2af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/ad702976332720a0f4b60e1b6365527c465dabc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_7b996fef17bd5d1214a25931248b51598b6484a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/3d5ad81d4c94ac22eef32738738666d4f08a62c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_0f855e11ec0166460fa79e9452b706addca1603c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/9a5adfb903f216819ec63ce51934be8c83c9cfe9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_a5caa4e739886eb9ea988c1bc14a43b388af9bf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.facebook.device.yearclass/yearclass/1.0.1/adfc67ed7e13d1648f20c2a5d6cb757ce43d9c22/yearclass-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="adfc67ed7e13d1648f20c2a5d6cb757ce43d9c22">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/yearclass-1.0.1_f4dd0e418a3da37fc8d1c160f5232dc4849903fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/ee40501d6f193961be85ccb01704e384450f8d0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_4c79eaf5fa60f501015258e27c9d348e0f193059/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/jackson-core-2.2.3_beacbbf971ef133c370f51e0c909f754b908de03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/5b4bad13765fda1f39da78244453cb0414815479/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_0c073669dcbbe46126037120298f5348819c59dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/f4050aaddfd22e0d1c94372710315179886ea0db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_0091025d64adb96b784096c8c76a8acd26b360fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/8a7e436a5840da29da56b046626d1a5b834f0f04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_b239fd6b1c5d12c45cbfca438ec3edad98f13384/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/839fa8d65f132ee893574435c1a75e13007d4834/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_c967fe3745790148e3600bafac95f249c8f2595a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/jsr305-3.0.0_9fe69d17d9c55a5914cb540a9edb639262b2acd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.raizlabs.android/DBFlow-Core/2.2.1/e07bfc8e2041edf27469bd94e08bc19f52f4dee7/DBFlow-Core-2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e07bfc8e2041edf27469bd94e08bc19f52f4dee7">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/DBFlow-Core-2.2.1_03aa35f2d420035f160c6b4e11d09a3fe1e464c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/support-annotations-26.0.1_952d341751b8093742aa702fb7d5eb5771baf55a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/1.3.2/b6dde38349ba9bb5e6ea6320531eae969985dae5/commons-io-1.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/commons-io-1.3.2_ea2d7979cb3d54f192a87e66d8f45dde3073ab6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_82797d43ce6d389ae25ece811e94717f5bb7c4c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.amplitude/android-sdk/2.9.2/5ff2f760c3bcad9d4e60f1f84aa695321184ebc0/android-sdk-2.9.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ff2f760c3bcad9d4e60f1f84aa695321184ebc0">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/android-sdk-2.9.2_5c551c39e19db8b7ef3fb01d238cf4f775ad4b79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/cd6292f0a3f7615c5f9b7ec5011bd72bf8685fc7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2f9209ff0d33539df6866d019181ecd1ecd047">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_f938bdb0616a6bdb26b102e5c032ad8d7ed6e5cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/c56c3637bc0eb3999f4a7639611c2c0548f82e15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="418dca1ee8bac0cc2f78f8f34b594c4d89eec057">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_1456eca881ba197f219e4563e7b633d28bc2fd0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/d73ebd3db1882d4f979164725bc398c91b794928/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_f709131d69944d951e4ad814db892893eee6be05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/d8f5fcfa1cf2c8d96ad73e8327d9b286cbd606fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_f52bdb6b60b833d46008f14945602a7e86c858d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/449d7faa978b21ade2381f9f169c072742702106/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_fd2a11908fc2b98364bb2a0a2cbf758c5263c493/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.gradle/caches/modules-2/files-2.1/com.madgag.spongycastle/core/1.53.0.0/619f704791db186304325bd129b2e7ec34f77438/core-1.53.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="619f704791db186304325bd129b2e7ec34f77438">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/core-1.53.0.0_65b1c4c1c1ff5f935b2275a96daa78e66c3bfb43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/e56d792da7ecc8c666b06effbeaa6e670780d2b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_8f9e0803b82eee444fc847de537d55700d4139f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/07c7ee9ed156604e134450fc767210c078e69e00/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_4824f25580a08ee4748410ab967d47bbcce91994/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/2b60fcb467a29ea349099bc87648a6340d6cbc64/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_ddf70fb9a5ce9fd1787729cb0ffa96fff83a2214/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/inspire11/.android/build-cache/90b10b747ffbc931865d00a9b8c91f2853cdebf6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/classes_5568649a8e040781bb0018853f9f5261f248ed45/classes.dex" />
+    </item>
+
+</items>

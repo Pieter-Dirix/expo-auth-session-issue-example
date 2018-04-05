@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/fade_in.xml",
+        "source": "/Users/inspire11/.android/build-cache/82ae6eaf3446cc70ecaf2297bbd812a7f7e137c5/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/shake.xml",
+        "source": "/Users/inspire11/.android/build-cache/416816c04957432605f62c5ef92eedaaae909670/output/res/anim/shake.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/cycle.xml",
+        "source": "/Users/inspire11/.android/build-cache/416816c04957432605f62c5ef92eedaaae909670/output/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/tooltip_exit.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/tooltip_enter.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/fade_out.xml",
+        "source": "/Users/inspire11/.android/build-cache/82ae6eaf3446cc70ecaf2297bbd812a7f7e137c5/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/abc_fade_out.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/slide_up.xml",
+        "source": "/Users/inspire11/.android/build-cache/82ae6eaf3446cc70ecaf2297bbd812a7f7e137c5/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/abc_fade_in.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/anim/slide_down.xml",
+        "source": "/Users/inspire11/.android/build-cache/82ae6eaf3446cc70ecaf2297bbd812a7f7e137c5/output/res/anim/slide_down.xml"
+    }
+]

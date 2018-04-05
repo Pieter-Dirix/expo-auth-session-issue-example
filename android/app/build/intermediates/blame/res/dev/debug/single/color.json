@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/inspire11/.android/build-cache/36dda28aa1e24d174f876671cad0ae9ed4293be3/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/inspire11/.android/build-cache/36dda28aa1e24d174f876671cad0ae9ed4293be3/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_tint_default.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_search_url_text.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/com_facebook_button_text_color.xml",
+        "source": "/Users/inspire11/.android/build-cache/cc7ab54423473c8ae2e87747157fba2eee8a499b/output/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/inspire11/.android/build-cache/839fa8d65f132ee893574435c1a75e13007d4834/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/inspire11/.android/build-cache/2e2bd85360fc86c593ac23a8d21f93c209eb8cb8/output/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/inspire11/.android/build-cache/839fa8d65f132ee893574435c1a75e13007d4834/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color/abc_secondary_text_material_dark.xml"
+    }
+]

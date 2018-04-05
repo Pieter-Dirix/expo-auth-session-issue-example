@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

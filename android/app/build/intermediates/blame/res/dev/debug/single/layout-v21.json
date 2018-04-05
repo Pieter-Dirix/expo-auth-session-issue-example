@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/inspire11/.android/build-cache/d8f5fcfa1cf2c8d96ad73e8327d9b286cbd606fe/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/inspire11/.android/build-cache/d8f5fcfa1cf2c8d96ad73e8327d9b286cbd606fe/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/inspire11/.android/build-cache/d8f5fcfa1cf2c8d96ad73e8327d9b286cbd606fe/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout-v21/notification_action.xml",
+        "source": "/Users/inspire11/.android/build-cache/d8f5fcfa1cf2c8d96ad73e8327d9b286cbd606fe/output/res/layout-v21/notification_action.xml"
+    }
+]

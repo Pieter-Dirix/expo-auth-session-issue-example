@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/redbox_item_frame.xml",
+        "source": "/Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/oauth_webview_activity.xml",
+        "source": "/Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/res/layout/oauth_webview_activity.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/inspire11/.android/build-cache/cc7ab54423473c8ae2e87747157fba2eee8a499b/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/inspire11/.android/build-cache/605194c34ae696711bd225efcde16741418078fb/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/exo_simple_player_view.xml",
+        "source": "/Users/inspire11/.android/build-cache/0cc4da5f904171e2fd84ee895436e8ac46400471/output/res/layout/exo_simple_player_view.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/fps_view.xml",
+        "source": "/Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/notification_shell_app.xml",
+        "source": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/res/layout/notification_shell_app.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/inspire11/.android/build-cache/605194c34ae696711bd225efcde16741418078fb/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/surface_view.xml",
+        "source": "/Users/inspire11/.android/build-cache/1d3af972d2ccc98fed94211bf8bc6bcf548d411c/output/res/layout/surface_view.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/redbox_item_title.xml",
+        "source": "/Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/inspire11/.android/build-cache/cc7ab54423473c8ae2e87747157fba2eee8a499b/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/inspire11/.android/build-cache/605194c34ae696711bd225efcde16741418078fb/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/inspire11/.android/build-cache/2bd0cb0499527b92daa02616b942ebe63ac3fecf/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/inspire11/.android/build-cache/2bd0cb0499527b92daa02616b942ebe63ac3fecf/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/crop_image_view.xml",
+        "source": "/Users/inspire11/.android/build-cache/2185da8bc057231ea46ea8f1b89bb7eb91f6eb9e/output/res/layout/crop_image_view.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/tooltip.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/exponent_dev_activity.xml",
+        "source": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/res/layout/exponent_dev_activity.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/expo_media_controller.xml",
+        "source": "/Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/res/layout/expo_media_controller.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/inspire11/.android/build-cache/2bd0cb0499527b92daa02616b942ebe63ac3fecf/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/inspire11/.android/build-cache/d8f5fcfa1cf2c8d96ad73e8327d9b286cbd606fe/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/redbox_view.xml",
+        "source": "/Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/inspire11/.android/build-cache/2bd0cb0499527b92daa02616b942ebe63ac3fecf/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/payment_form_fragment.xml",
+        "source": "/Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/res/layout/payment_form_fragment.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/exo_playback_control_view.xml",
+        "source": "/Users/inspire11/.android/build-cache/0cc4da5f904171e2fd84ee895436e8ac46400471/output/res/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/notification.xml",
+        "source": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/res/layout/notification.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/exponent_check_box.xml",
+        "source": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/res/layout/exponent_check_box.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/dev_loading_view.xml",
+        "source": "/Users/inspire11/.android/build-cache/20b34db5908e4c27ffd54782ea52608d66005d2b/output/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_search_view.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/exponent_button.xml",
+        "source": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/res/layout/exponent_button.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/inspire11/.android/build-cache/cc7ab54423473c8ae2e87747157fba2eee8a499b/output/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/payment_form_fragment_two.xml",
+        "source": "/Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/res/layout/payment_form_fragment_two.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/inspire11/.android/build-cache/2bd0cb0499527b92daa02616b942ebe63ac3fecf/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/inspire11/.android/build-cache/2bd0cb0499527b92daa02616b942ebe63ac3fecf/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/inspire11/.android/build-cache/cc7ab54423473c8ae2e87747157fba2eee8a499b/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/loading_view.xml",
+        "source": "/Users/inspire11/.android/build-cache/3a2ba1686e37019f2fe1feefa6f87b0124cef33f/output/res/layout/loading_view.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/inspire11/.android/build-cache/605194c34ae696711bd225efcde16741418078fb/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/inspire11/.android/build-cache/d8f5fcfa1cf2c8d96ad73e8327d9b286cbd606fe/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/notification_template_media.xml",
+        "source": "/Users/inspire11/.android/build-cache/605194c34ae696711bd225efcde16741418078fb/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/inspire11/.android/build-cache/ee40501d6f193961be85ccb01704e384450f8d0c/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/inspire11/.android/build-cache/605194c34ae696711bd225efcde16741418078fb/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/error_activity.xml",
+        "source": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/src/main/res/layout/error_activity.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/inspire11/.android/build-cache/605194c34ae696711bd225efcde16741418078fb/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/inspire11/.android/build-cache/605194c34ae696711bd225efcde16741418078fb/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/crop_image_activity.xml",
+        "source": "/Users/inspire11/.android/build-cache/2185da8bc057231ea46ea8f1b89bb7eb91f6eb9e/output/res/layout/crop_image_activity.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/notification_media_action.xml",
+        "source": "/Users/inspire11/.android/build-cache/605194c34ae696711bd225efcde16741418078fb/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/inspire11/Apps/app-auth-initialuri-issue/android/app/build/intermediates/res/merged/dev/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/inspire11/.android/build-cache/12334faf22986dd0c4dffd4b91f9c34e87ab4303/output/res/layout/abc_list_menu_item_checkbox.xml"
+    }
+]
