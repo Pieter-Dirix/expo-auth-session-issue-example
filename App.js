@@ -30,9 +30,9 @@ export default class App extends React.Component {
     const { initialUri } = this.state;
     return (
       <View style={styles.container}>
-        <Text>Test AuthSession</Text>
+        <Text>AuthSession Bundle Reload Tester</Text>
         <TouchableOpacity onPress={this._startAuthSession} style={styles.button}>
-          <Text style={styles.buttonText}>Test AuthSession right now</Text>
+          <Text style={styles.buttonText}>Start Session</Text>
         </TouchableOpacity>
         {!!initialUri &&
           <View>
